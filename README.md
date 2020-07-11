@@ -2,12 +2,11 @@
 <h1>I'm João Vítor, full stack web developer </h1>
 
 <h3>Feel free to explore my social midias and my resume's</h3>
-<h4>And, of course, some of my repositories!</h4>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3ov%C3%ADtoroliveiraferreira/">LinkedIn</a> | <a href="https://app.codesignal.com/profile/joaovitorfer">CodeSignal</a> |
 <a href="https://web.digitalinnovation.one/users/joaovitorferreira03">Digital Innovation</a>
 
-
+<h4>And, of course, some of my repositories!</h4>
 <!--
 **JoaovitorFerreira/JoaovitorFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
