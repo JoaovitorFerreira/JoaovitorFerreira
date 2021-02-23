@@ -1,5 +1,5 @@
 ### Hello There! 👋
-<h1>I'm João Vítor, full stack web developer </h1>
+<h1>I'm João Vítor, fullstack web developer </h1>
 
 <p>🔭 I'm currently working as a c# developer on BTG Pactual...</p>
 <p> and learning about GraphQL, Typescript, .NUnit and Unity</p>
