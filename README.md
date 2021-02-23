@@ -2,7 +2,7 @@
 <h1>I'm João Vítor, full stack web developer </h1>
 
 <p>🔭 I'm currently working as a c# developer on BTG Pactual...</p>
-<p> and learning about GraphQL, RabbitMQ, .NUnit and Unity</p>
+<p> and learning about GraphQL, Typescript, .NUnit and Unity</p>
 
 <h3>Feel free to explore some of the sites where you can find me online</h3>
 
