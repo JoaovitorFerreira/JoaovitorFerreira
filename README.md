@@ -7,7 +7,7 @@
 <h3>Feel free to explore some of the sites where you can find me online</h3>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3ov%C3%ADtoroliveiraferreira/">LinkedIn</a> | <a href="https://app.codesignal.com/profile/joaovitorfer">CodeSignal</a> |
-<a href="https://web.digitalinnovation.one/users/joaovitorferreira03">Digital Innovation</a> | <a href="https://www.hackerrank.com/johnny_ferreira">Hacker Rank</a>
+<a href="https://web.digitalinnovation.one/users/joaovitorferreira03">Digital Innovation</a> | <a href="https://www.hackerrank.com/johnny_ferreira">Hacker Rank</a>|
 <a href=https://gitlab.com/JoaovitorFerreira>GitLab</a>
 
 
