@@ -1,8 +1,8 @@
 ### Hello There! 👋
-<h1>I'm João Vítor, fullstack web developer </h1>
+<h1>I'm João Vítor, frontend web developer </h1>
 
-<p>🔭 I'm currently working as a full stack developer at Genial Investimentos...</p>
-<p> and learning about GraphQL, Typescript, .NUnit and Unity</p>
+<p>🔭 I'm currently working as a frontend engineer at Genial Investimentos...</p>
+<p> and learning about GraphQL, Typescript and ML </p>
 
 <h3>Feel free to explore some of the sites where you can find me online</h3>
 
