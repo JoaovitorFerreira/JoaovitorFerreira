@@ -1,7 +1,7 @@
 ### Hello There! 👋
 <h1>I'm João Vítor, fullstack web developer </h1>
 
-<p>🔭 I'm currently working as a fullstack engineer at Kanastra...</p>
+<p>🔭 I'm currently working as a fullstack engineer at Gupy...</p>
 <p> and learning about GraphQL, ML and Python </p>
 
 <h3>Feel free to explore some of the sites where you can find me online</h3>
