@@ -1,7 +1,7 @@
 ### Hello There! 👋
-<h1>I'm João Vítor, fullstack web architect and a machine learning scientist </h1>
+<h1>I'm João Vítor, software architect and a machine learning scientist </h1>
 
-<p>🔭 I'm currently working as a web architect at Gupy...</p>
+<p>🔭 I'm currently working as a software architect at Gupy...</p>
 <p> and learning about GraphQL, ML and Python </p>
 
 <h3>Feel free to explore some of the sites where you can find me online</h3>
